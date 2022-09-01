@@ -26,6 +26,6 @@ This program will find the perrimiter and the area of a square
             System.out.println("The area of the square = "+ area);
 
 
-        }
-    }
-}
+        }//main
+    }//class
+
